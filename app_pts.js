@@ -1,5 +1,6 @@
-const SUPABASE_URL = "https://your-supabase-url.supabase.co";
-const SUPABASE_ANON_KEY = "your-anon-key";
+const SUPABASE_URL = "https://gbmmegvgzgkepqtghydb.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdibW1lZ3ZnemdrZXBxdGdoeWRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDExMDQxNjUsImV4cCI6MjA1NjY4MDE2NX0.t7qcyV3T7xH-746lNR8YqdtKhGTNmPBTy82uhWs9S64";
+
 
 // Inizializza la mappa con Leaflet
 const map = L.map("map").setView([41.9028, 12.4964], 6); // Roma come centro
